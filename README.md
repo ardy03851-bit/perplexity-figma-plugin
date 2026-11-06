@@ -45,7 +45,7 @@ Try prompts like:
 
 This repo follows the Perplexity plugin package format:
 
-- `plugin.json` — manifest (name, description) at the repo root
+- `plugin.json` — manifest (name, description) at the repo root; the name must use only lowercase letters, numbers, and hyphens
 - `mcp.json` — MCP server declarations (`.mcp.json` is included for Claude Code / Codex compatibility)
 - `skills/<name>/SKILL.md` — one folder per skill
 
