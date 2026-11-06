@@ -1,0 +1,8 @@
+{
+  "name": "Figma for Perplexity",
+  "description": "Connect Perplexity Computer to Figma. Create and edit UI designs, components, and design systems directly on the Figma canvas, build GLSL shader effects and fills, create generative plugins, turn designs into code, and automate Figma via the REST API. Bundles the official Figma MCP server (mcp.figma.com) plus five skills: figma-design, figma-shaders, figma-generative-plugins, figma-to-code, and figma-rest-api.",
+  "version": "1.0.0",
+  "author": { "name": "ardy03851-bit" },
+  "homepage": "https://github.com/ardy03851-bit/perplexity-figma-plugin",
+  "license": "MIT"
+}
